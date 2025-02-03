@@ -16,5 +16,5 @@ Roll number must be a positive integer.
 Marks must be between 0 and 100.
 Displays student details securely.
 🛠️ Technology Stack
-Programming Language: Java
+Programming Language: Javabb
 IDE: IntelliJ IDEA / Eclipse / VS Code
