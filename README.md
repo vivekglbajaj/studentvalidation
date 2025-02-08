@@ -10,7 +10,7 @@ Getter & Setter Methods: Allows controlled access to attributes.
 🚀 Features
 Private attributes: name, rollNumber, and marks.
 Getters to safely access the values.
-Setters with validation:
+Setters with validation:n
 Name cannot be empty.
 Roll number must be a positive integer.
 Marks must be between 0 and 100.
